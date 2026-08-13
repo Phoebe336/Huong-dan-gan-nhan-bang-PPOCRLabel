@@ -49,7 +49,11 @@ Thừa từ/cuối dòng	Tổng tài sản 500 abc → Tổng tài sản 500 - X
 Thừa số đầu/cuối	123Tổng tài sản → Tổng tài sản - Xóa số thừa
 Viết hoa sai:	Doanh Thu → Doanh thu	- Sửa đúng chính tả
 
-
-Bước 5: Xác nhận và chuyển tiếp
+Bước 4: Xác nhận và chuyển tiếp
 Sau khi sửa xong, nhấn nút Check (hoặc Ctrl + V).
 Trạng thái chuyển từ X → √, hệ thống tự chuyển sang ảnh tiếp theo.
+
+## Các cách lưu file Label.txt:
+Tự động lưu: Vào menu File → Auto Save Label Mode để bật chế độ tự động lưu.
+Thủ công: Vào menu File → Save Label để lưu kết quả.
+Đóng ứng dụng: Dữ liệu tự động được lưu khi đóng chương trình.
