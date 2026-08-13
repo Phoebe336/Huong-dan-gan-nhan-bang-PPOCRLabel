@@ -9,7 +9,7 @@
 Tài liệu này hướng dẫn chi tiết quy trình gán nhãn (annotation) cho các bảng báo cáo tài chính sử dụng công cụ PPOCRLabel. Kết quả đầu ra sẽ được sử dụng để huấn luyện mô hình nhận dạng bảng (table recognition) phục vụ bài toán trích xuất thông tin tài chính tự động.
 
 ---
-
+<video src="./Huong_dan_gan_nhan_bang.mp4" controls width="100%"></video>
 ##  Chuẩn bị môi trường
 
 ### 1. Cài đặt PaddleOCR
