@@ -23,6 +23,7 @@ PPOCRLabel được tích hợp sẵn mô hình PaddleOCR. Vui lòng tham khảo
 pip install pyqt5
 cd ./PPOCRLabel
 python PPOCRLabel.py
+<img src="./MoPhong.gif?raw=true" width="100%"/>
 
 ## Quy trình gán nhãn
 Bước 1: Mở thư mục ảnh
