@@ -45,9 +45,9 @@ Dấu * bị nhầm thành %, ?
 100% → 100*	Sửa lại thành *
 Dấu - bị nhầm thành số, %, x
 5% → -5	Sửa lại thành -
-Thừa từ/cuối dòng	Tổng tài sản 500 abc → Tổng tài sản 500 - Xóa phần thừa
-Thừa số đầu/cuối	123Tổng tài sản → Tổng tài sản - Xóa số thừa
-Viết hoa sai:	Doanh Thu → Doanh thu	- Sửa đúng chính tả
+Thừa từ/cuối dòng:	Tổng tài sản 500 abc → Tổng tài sản 500 - Xóa phần thừa
+Thừa số đầu/cuối:	123Tổng tài sản → Tổng tài sản - Xóa số thừa
+Viết hoa sai:	Doanh Thu → Doanh thu	-Sửa đúng chính tả
 
 Bước 4: Xác nhận và chuyển tiếp
 Sau khi sửa xong, nhấn nút Check (hoặc Ctrl + V).
