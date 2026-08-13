@@ -24,7 +24,7 @@ pip install pyqt5
 cd ./PPOCRLabel
 python PPOCRLabel.py
 
-** Quy trình gán nhãn**
+## Quy trình gán nhãn
 Bước 1: Mở thư mục ảnh
 Chạy lệnh python PPOCRLabel.py để khởi động công cụ.
 Vào menu File → Open Dir, chọn thư mục chứa ảnh báo cáo tài chính.
