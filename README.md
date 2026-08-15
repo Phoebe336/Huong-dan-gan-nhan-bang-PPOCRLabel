@@ -24,6 +24,7 @@ pip install pyqt5
 cd ./PPOCRLabel
 python PPOCRLabel.py
 <img src="./MoPhong.gif?raw=true" width="100%"/>
+![Hướng dẫn gán nhãn](python_qBYUXtGgrm%20(2).gif)
 
 ## Quy trình gán nhãn
 Bước 1: Mở thư mục ảnh
